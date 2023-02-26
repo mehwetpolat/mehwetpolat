@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">💻 | SQL | .Net Developer | From Turkey 💻</h3>
+<h3 align="center">💻 | .Net Developer | SQL | From Turkey 💻</h3>
 
 
 
