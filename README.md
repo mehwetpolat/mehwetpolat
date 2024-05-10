@@ -18,7 +18,6 @@
 
 
 
-*🔭 My New Project: Quizcim https://github.com/mehwetpolat/Quizs
 <p></p>
 *🔭 MY Project: Periyodik Bakimci https://github.com/mehwetpolat/periyodikbakimci
 
