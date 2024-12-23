@@ -18,11 +18,6 @@
 
 
 
-<p></p>
-*🔭 MY Project: Periyodik Bakimci https://github.com/mehwetpolat/periyodikbakimci
-
-
-
 
 
 <h3 align="left">Connect with me:
